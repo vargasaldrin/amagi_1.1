@@ -1,0 +1,85 @@
+.navigation {
+    width: 90%;
+    margin: 25px auto;
+}
+
+.nav_item {
+    margin-right: 15%;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: grey
+}
+
+.nav_item:last-child {
+    margin-right: 0%;
+}
+
+.header {
+    width: 90%;
+    height: 500px;
+    position: relative;
+    margin: auto;
+}
+
+.header_title {
+    display: inline-block;
+    text-align: center;
+    position:   absolute;
+    width: 45%;
+    top: 50%;
+    transform: translate(0, -50%)
+}
+
+.header_button {
+    font-size: 1.5rem;
+    border: 1px solid black;
+    padding: 1rem;
+    background-color: white;
+}
+
+h1 {
+    font-size: 4rem
+}
+
+.header_image {
+    width: 400px;
+    height: 400px;
+    padding-top: 50px;
+    margin-left: 60%;
+    border-radius: 50%
+}
+
+.main_content {
+    width: 90%;
+    margin: auto;
+    padding: 50px 0px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.section_one {
+    display: inline-block;
+    width: 49%;
+    margin: auto;
+}
+
+.section_banner {
+    width: 100%;
+    height: 300px;
+    margin: 25px 0px;
+}
+
+.section_two {
+    display: inline-block;
+    width: 32%;
+    margin: auto;
+}
+
+.contact {
+    width: 90%;
+    margin: auto;
+}
+
+.contact_info {
+    margin-bottom: 0.5rem;
+}
