@@ -3,16 +3,23 @@ nav {
     margin: 25px auto;
 }
 
-.nav_item {
+li {
+    list-style: none;
+    display: inline;
     margin-right: 15%;
+}
+
+li:last-child {
+    margin-right: 0%;
+}
+
+.nav_item {
     font-size: 1.2rem;
     text-decoration: none;
     color: grey
 }
 
-.nav_item:last-child {
-    margin-right: 0%;
-}
+
 
 header {
     width: 90%;
