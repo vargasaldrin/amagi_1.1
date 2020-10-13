@@ -1,4 +1,4 @@
-.navigation {
+nav {
     width: 90%;
     margin: 25px auto;
 }
@@ -14,7 +14,7 @@
     margin-right: 0%;
 }
 
-.header {
+header {
     width: 90%;
     height: 500px;
     position: relative;
